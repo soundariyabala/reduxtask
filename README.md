@@ -1,0 +1,1 @@
+this is react redux task. In this task, users need to Increase or Decrease the per unit Quantity that should automatically updates the total Quantity and Amount and we get product details from JSON data link .
