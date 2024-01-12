@@ -14,7 +14,7 @@ function UserContextComponents({children}){
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=sph",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/1.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
                 "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -33,7 +33,7 @@ function UserContextComponents({children}){
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail":"https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww",
+            "thumbnail":"https://i.dummyjson.com/data/products/2/1.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/2/1.jpg",
                 "https://i.dummyjson.com/data/products/2/2.jpg",
@@ -51,7 +51,7 @@ function UserContextComponents({children}){
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://c4.wallpaperflare.com/wallpaper/982/430/326/apple-devices-gadgets-ios-wallpaper-preview.jpg",
+            "thumbnail": "https://i.dummyjson.com/data/products/3/1.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/3/1.jpg"
             ]
@@ -66,7 +66,7 @@ function UserContextComponents({children}){
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F863%2F8gb-ram-4g-connectivity-64gb-internal-memory-full-hd-display-4780-mah-battery-grey-mi-10-pro-mobile-phone-616.jpg&w=750&q=75",
+            "thumbnail": "https://i.dummyjson.com/data/products/4/1.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/4/1.jpg",
                 "https://i.dummyjson.com/data/products/4/2.jpg",
@@ -85,7 +85,7 @@ function UserContextComponents({children}){
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswpAFAKInFmMNTh8w2DJEZJZRZkKPALPXfw&usqp=CAU",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/1.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/5/1.jpg",
                 "https://i.dummyjson.com/data/products/5/2.jpg",
