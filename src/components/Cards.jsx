@@ -25,7 +25,7 @@ function Cards() {
 
 return (
   <Card style={{ width: '18rem' }} key={i}>
-    <Card.Img variant="top" src={e.thumbnail} />
+    <Card.Img variant="top" />
   <Card.Body >
     <Card.Title>{e.title}</Card.Title>
     <Card.Text >{e.description}</Card.Text>
