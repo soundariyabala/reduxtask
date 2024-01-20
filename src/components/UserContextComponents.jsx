@@ -33,7 +33,7 @@ function UserContextComponents({children}){
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail":"",
+            "thumbnail":"https://www.seekpng.com/png/detail/34-347506_oppo-to-start-selling-its-smartphones-in-the.png",
             "images": [
                 "https://i.dummyjson.com/data/products/2/1.jpg",
                 "https://i.dummyjson.com/data/products/2/2.jpg",
